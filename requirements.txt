@@ -1,0 +1,4 @@
+ifcopenshell
+fastmcp
+requests
+python-dotenv
